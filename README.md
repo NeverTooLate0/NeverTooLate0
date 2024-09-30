@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Azzam [NeverTooLate]</h1>
 <h3 align="center">I'm passionate about learning and building scalable web applications. I enjoy working on full-stack development and always look forward to expanding my knowledge in modern web technologies.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevertoolate0" alt="nevertoolate0" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/azzam0x1447" target="blank"><img src="https://img.shields.io/twitter/follow/azzam0x1447?logo=twitter&style=for-the-badge" alt="azzam0x1447" /></a> </p>
 
@@ -10,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me [azzamx88@gmail.com](mailto:azzamx88@gmail.com)
+- 📫 How to reach me **azzamx88@gmail.com**
 
 - ⚡ Fun fact **"Code is like humor. When you have to explain it, it’s bad." - Cory House**
 
